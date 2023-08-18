@@ -1,0 +1,14 @@
+:root {
+    --clr-text: white;
+}
+
+.intro img{
+    width: 100px;
+}
+
+.intro{
+    text-align: center;
+    margin: 2rem 0;
+    line-height: 10px;
+    color: var(--clr-text);
+}

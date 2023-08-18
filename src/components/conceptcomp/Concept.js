@@ -1,5 +1,5 @@
 import EventImg from '../../assets/images/events.png';
-import Card from '../../UI/Card';
+import Card from '../ui/Card';
 import './Concept.css';
 
 function Concept(props){

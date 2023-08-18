@@ -1,4 +1,4 @@
-import KeyConceptImg from '../assets/images/key-concepts.png';
+import KeyConceptImg from '../../assets/images/key-concepts.png';
 import './Intro.css';
 
 function Intro(){

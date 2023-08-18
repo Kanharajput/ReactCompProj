@@ -1,0 +1,6 @@
+.concepts{
+    max-width: 1170px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}

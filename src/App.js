@@ -1,5 +1,5 @@
-import Intro from './components/Intro';
-import Concepts from './components/ConceptComp/Concepts';
+import Intro from './components/introcomp/Intro';
+import Concepts from './components/conceptcomp/Concepts';
 import ComponentImg from './assets/images/components.png';
 import EventImg from './assets/images/events.png';
 import StateImg from './assets/images/state.png';
